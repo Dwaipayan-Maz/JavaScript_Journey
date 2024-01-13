@@ -10,4 +10,8 @@ let style;
 console.log(alo)
 console.table([age,nation,home,hobby,style])*/
 let nation= 891;
-console.log(typeof 891);
+//console.log(typeof 891);
+let k=90
+let lp=String(k)
+console.log(typeof lp)
+console.log(3+3*5/4%2-8)
